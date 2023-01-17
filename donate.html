@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <script src="cookie.js"></script>
 <script>
+  if(window.location.search == "?official"){
+   setCookie("type", "official", 7); 
+  }
+  else{
+   setCookie("type", "all", 7); 
+  }
 window.location = "https://ko-fi.com/nightmarexiv";
 </script>
 </head>
