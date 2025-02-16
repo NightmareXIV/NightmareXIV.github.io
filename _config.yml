@@ -1,0 +1,42 @@
+title: NightmareXIV
+description: Plugin commissions
+theme: just-the-docs
+
+url: https://nightmarexivtest.github.io
+
+aux_links:
+  Discord: https://discord.gg/m8NRt4X8Gf
+  Patreon: https://www.patreon.com/NightmareXIV
+
+search_enabled: false
+color_scheme: dark
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  open:
+    title: "Commission status: Normal"
+    color: green
+  congested:
+    title: "Commission status: Congested"
+    color: yellow
+  closed:
+    title: "Commission status: Closed"
+    color: red
