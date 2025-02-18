@@ -38,14 +38,14 @@ Commissions are currently closed. Only update requests or additional features fo
 - General rule of thumb - 1 week for every 100 USD valued;
 - Contact me via Discord if you would like to receive an exact quote with price and time estimate;
 
-Read more about development time and possible development pauses here.
+<a href="/docs/time.html">Read more about development time and possible development pauses here.</a>
 
 ## What about updating the plugin? 
 - I provide one year of free updates for the plugin in case it is broken due to a game or Dalamud update. 
 - After that, it will be no more than 10% of the total cost of the plugin per update. 
 - You can subscribe to Total Nightmare or higher tier on my Patreon for free perpetual updates.
 
-Read more about the plugin update policy here.
+<a href="/docs/updates.html">Read more about the plugin update policy here.</a>
 
 ## How can I distribute plugin?
 You can:
@@ -54,10 +54,10 @@ You can:
 - Send it to the official Dalamud repo or ask me to do so;
 - Ask me to add it to the NightmareXIV repo.
 
-Read more about distribution here.
+<a href="/docs/distribution.html">Read more about distribution here.</a>
 
 ## Additional free and paid services
-- Additional free and paid services you can request with the plugin are listed on this page. 
+- Additional free and paid services you can request with the plugin are <a href="/docs/additional.html">listed on this page</a>. 
 
 ## Not a plugin
 Besides plugin commissions, I can also offer the following services:
@@ -65,11 +65,11 @@ Besides plugin commissions, I can also offer the following services:
 - Implementing a feature in one of the NightmareXIV plugins;
 - Modification of an existing plugin (if it's license allows it).
 
-Read more about additional services here.
+<a href="/docs/additional.html">Read more about additional services here.</a>
 
 ## Commercial use
 Normally, you cannot use commissioned work commercially. This means:
 - Directly or indirectly sell the plugin itself for real money;
 - Using the plugin to earn real money.
 
-However, a commercial license is available. Read more about the commercial license here.
+However, a commercial agreement is available. <a href="/docs/commercial.html">Read more about the commercial agreement here.</a>
