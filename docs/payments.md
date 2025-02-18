@@ -13,8 +13,8 @@ The price depends on several factors, including
 Please note that requesting additional features during or after development may increase the cost, so please describe all the features you want in your plugin to get the most accurate quote possible. 
 
 ### Pricing examples
-- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of **60 USD**. For example, plugins like ObjectExplorer, Mini or EnemyListHP.
-- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the **200 USD to 450 USD range**. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
+- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of **60 USD**. For example, plugins like Mini or EnemyListHP.
+- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the **200 USD to 450 USD range**. Plugins like Weatherman, NotificationMaster, JustBackup, QuestAWAY would land in this price range.
 - **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over **500 USD** and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
 
 ## Payment plans
