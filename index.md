@@ -17,8 +17,8 @@ Commissions are currently closed. Only update requests or additional features fo
 -->
 
 ## Why choose NightmareXIV
-- Development of plugins since 2020;
-- Large number of plugins created (browse here);
+- Developing plugins since 2020;
+- Large number of plugins created ([browse here](https://github.com/NightmareXIV/));
 - Not a single plugin has been retired (except those that have become obsolete);
 - Fast updates and dedicated support server;
 - Full transparency - no tricks, no hidden fees, all terms are available on this website.
@@ -35,8 +35,8 @@ Commissions are currently closed. Only update requests or additional features fo
 <a href="/docs/payments.html">Read about supported payment methods and how to keep the cost of the plugin low here.</a>
 
 ## How long will it take?
-- General rule of thumb - 1 week for every 100 USD valued;
-- Contact me via Discord if you would like to receive an exact quote with price and time estimate;
+- General rule of thumb - 1 week for every 100 USD worth;
+- Contact me via Discord if you would like to get an exact quote with price and time estimate;
 
 <a href="/docs/time.html">Read more about development time and possible development pauses here.</a>
 
@@ -65,11 +65,12 @@ Besides plugin commissions, I can also offer the following services:
 - Implementing a feature in one of the NightmareXIV plugins;
 - Modification of an existing plugin (if it's license allows it).
 
-<a href="/docs/additional.html">Read more about additional services here.</a>
+Read more <a href="/docs/feature.html">about requesting features here</a>.
+Read more <a href="/docs/other.html">about non-plugin services here</a>.
 
 ## Commercial use
 Normally, you cannot use commissioned work commercially. This means:
-- Directly or indirectly sell the plugin itself for real money;
-- Using the plugin to earn real money.
+- Selling the plugin itself, directly or indirectly, for real money;
+- Using the plugin to make real money.
 
 However, a commercial agreement is available. <a href="/docs/commercial.html">Read more about the commercial agreement here.</a>
