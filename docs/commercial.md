@@ -11,6 +11,9 @@ By default, all commissioned plugins come with **non-commercial use only permiss
 Asking for donations is NOT considered commercial use. You may place your donation links inside the plugin (unless you have requested distribution by NightmareXIV), as long as these donations do not unlock any additional benefits regarding the plugin.
 {: .important }
 
+Plugins that are not commercial in themselves, but are primarily designed to enhance or extend other plugins that are commercial, are also considered commercial.
+{: .important }
+
 ## In-game Currency
 **You may charge in-game currency** for any of the above if there is no legitimate way to purchase such in-game currency with real-world money. You may not accept in-game currency purchased with real-world money in a transaction that violates the game's Terms of Service, and you may not encourage users to engage in RMT.
 
