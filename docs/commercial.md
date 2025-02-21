@@ -2,20 +2,31 @@
 title: Commercial Use
 nav_order: 80
 ---
-# Commercial Use
-By default, all commissioned plugins come with **non-commercial use only permission**, unless you specifically request commercial use. This means
-- You cannot sell the plugin or access to it for real-world money, directly or indirectly;
-- If a plugin has been used to create a new, unique product, that product cannot be sold for real-world money, either directly or indirectly;
-- Forks of the plugin or other products containing the plugin's source code or the plugin itself are also subject to this restriction.
+# Quick Summary of this page
+- If a user can pay real money to get access to the plugin or any of its features, or to enhance their experience with the plugin in any way, that's considered commercial use. Even if you provide other free ways to get access. Even if you are not the direct beneficiary of the payments.
+- Otherwise, the plugin is considered non-commercial. 
+- Asking for donations, requiring users to purchase and subscribe to the game itself, is allowed for non-commercial plugins.
 
-Asking for donations is NOT considered commercial use. You may place your donation links inside the plugin (unless you have requested distribution by NightmareXIV), as long as these donations do not unlock any additional benefits regarding the plugin.
-{: .important }
+# Commercial Use - Detailed
+By default, all commissioned plugins come with **non-commercial use only permission**, unless you specifically request commercial use. This means:
+- You cannot sell the plugin or access to it for real-world money, directly or indirectly;
+- You cannot restrict access to individual plugin features behind a paywall, and you cannot offer upgrades to individual plugin features for real-world money, directly or indirectly;
+- If a plugin is used to create a new, unique product, the restrictions listed on this page apply to that product as well;
+- Forks of the plugin or other products that contain the plugin's source code, or the plugin itself, are also subject to the restrictions listed on this page.
+
+## Exceptions
+- **Donations**. You may place your own donation links within the plugin or it's description if you choose to distribute it yourself. This is not considered commercial use.
+- **Game purchase and subscription**. You can require users to own a license for the game the plugin is intended for, as well as maintain their own subscription - this is not considered commercial use. For example, you can require users to be in your Free Company in order to use the plugin, which implies the need to pay for a subscription. 
+- **Purchase or subscribe to third-party cloud services**. For example, if a plugin requires a paid translation engine or paid file hosting, you can require purchase or subscription to that service and maintain non-commercial status, as long as you are not the owner of or affiliated with that service.
+
+## In-game Currency
+**You may charge in-game currency** for any of the above if there is no legitimate way to purchase such in-game currency with real-world money. You may not accept in-game currency purchased with real-world money in a transaction that violates the game's Terms of Service, and you may not encourage users to engage in RMT.
 
 Plugins that are not commercial in themselves, but are primarily designed to enhance or extend other plugins that are commercial, are also considered commercial.
 {: .important }
 
-## In-game Currency
-**You may charge in-game currency** for any of the above if there is no legitimate way to purchase such in-game currency with real-world money. You may not accept in-game currency purchased with real-world money in a transaction that violates the game's Terms of Service, and you may not encourage users to engage in RMT.
+If a plugin contains a client-side part and a server-side part, even if the server-side part is open source and could theoretically be hosted by anyone for free, if the default server that is either preconfigured in the plugin or advertised in places where the plugin is distributed has paid access or paid features, the entire plugin is considered commercial.
+{: .important }
 
 ## Requesting a commercial use
 If you want to use the plugin for commercial purposes, it is possible if you accept a commercial agreement. The following options are available:
@@ -54,5 +65,5 @@ Commercial use of the plugin without a commercial agreement will have the follow
 If you commissioned a plugin before these terms became effective, you may use it commercially without a commercial agreement. However, if you request an update or upgrade for such a commercially used plugin, I may add a +500% surcharge according to the standard commercial agreement. **It's recommended to request an individual agreement for such plugins**.
 
 ## Commercial use via third party
-It is considered commercial use if a user can pay to get it, you do not necessarily have to receive that money. For example, giving Discord Nitro Boosters or Twitch subscribers access to the plugin is considered commercial use. However, game subscriptions are exempt from this rule - you can require a user to purchase a game and maintain their subscription in order to access the plugin - as long as they're only purchasing it for themselves. 
+It is considered commercial use if a user can pay to get it, you do not necessarily have to receive that money. For example, giving Discord Nitro Boosters or Twitch subscribers access to the plugin is considered commercial use. 
 Additionally, sales via third party person are considered commercial use as well. If you want to keep the plugin private and non-commercial, you should take reasonable measures to ensure that a user can not resell their copy of the plugin easily.
