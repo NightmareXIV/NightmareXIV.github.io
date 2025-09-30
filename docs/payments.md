@@ -40,9 +40,7 @@ Here are some important tips and tricks to keep the price of the plugin affordab
 |:----------------|:------------------|:------|
 | Cryptocurrency | **10% Discount** | Any |
 | PayPal | Friends and Family only | 30 USD |
-| Payoneer | | 150 USD |
-| Skrill | | 150 USD |
-| SWIFT/SEPA bank transfer | | 200 USD |
+| SWIFT/SEPA bank transfer | | 500 USD |
 | Invoice |  | 500 USD |
 
 Don't see a payment system you can use in the list? Please contact me and we will see if we can find something else.
@@ -63,14 +61,11 @@ All prices are specified in United States Dollar (USD). If you use another curre
 ### PayPal
 - **Only Friends and Family transactions are supported.** Note: Not all countries support Friends and Family transactions. If your country does not support it, you will not be able to use PayPal to pay for NightmareXIV services. Business accounts do not support Friends and Family transactions.
 
-### Payoneer, Skrill
-- Currently available for transactions of 150 USD or more.
-
 ### SWIFT/SEPA bank transfer
-- Currently available for transactions of 200 USD or more.
+- Currently available for transactions of 500 USD or more.
 
 ### Invoice
-- Available to Business Entities and Private Individuals. An invoice will be sent to you by a third party agency and you will need to provide your business details or your REAL name and billing address. You will have the option to pay by credit card or bank transfer.
+- Available to Business Entities and Private Individuals. An invoice will be sent to you by me via third party agency and you will need to provide your business details or your REAL name and billing address. You will have the option to pay by credit card or bank transfer.
 - Your name and billing address MUST match the name and address on your credit card or bank account. 
 - Currently available for transactions of 500 USD or more.
 
