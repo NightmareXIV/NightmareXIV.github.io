@@ -15,8 +15,8 @@ During development, you will periodically receive intermediate results consistin
 Development is automatically paused and development times are automatically extended when these events occur:
 - **Game servers are not accessible** (due to maintenance or other reasons). Development will resume the day after the game servers becomes accessible.
 - **Release version of Dalamud is not available.** Development will resume the day after the release version becomes available.
-- **8-player Savage raid release.** Development will be paused for 7 days after the Savage raid release. Chaotic, Foray, Criterion raids will not cause this pause.
-- **Ultimate raid release.** Development will be paused for 30 days after the release of the ultimate raid.
+- **8-player Savage raid release.** Development will be paused for up to 20 days after the Savage raid release, depending on it's difficulty. Chaotic, Foray, Criterion raids will not cause this pause.
+- **Ultimate raid release.** Development will be paused for up to 40 days after the release of the ultimate raid, depending on it's difficulty.
 
 Listed times and pauses apply only to new plugins or new features. Times and pauses regarding existing plugin updates are outlined in the Update Policy section.
 {: .important }
