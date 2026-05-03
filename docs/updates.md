@@ -17,6 +17,7 @@ Free updates will not be provided in the following situations:
 - The system for which the plugin was created has received non-technical changes. For example, such as the Summoner revisions in Patch 6.0;
 - If you request a plugin for another third-party plugin, and that plugin is significantly reworked;
 - Commercial plugins, unless a special agreement has been made.
+- You or any other developer has modified commissioned plugin using AI. However, free update is still possible for original, unmodified version. 
 
 ## Free Updates for Patrons
 Patrons of Total Nightmare or higher will receive free updates of ALL their commissioned plugins as long as they remain subscribed for at least 11 out of 12 months per year since the plugin was completed. In addition, these updates are prioritized and can be done even before the Dalamud release version is available. 
