@@ -12,3 +12,6 @@ In general, there is no difference compared to a process to commission a new plu
 - There is no minimum price, other than the one imposed by the choice of the payment system.
 
 Commissioning an upgrade will refresh Free Update Period to 1 year after upgrade will be completed.
+
+If you or other developer has modified the commissioned plugin's code using AI, your free update period will end immediately.
+{: .warning }
