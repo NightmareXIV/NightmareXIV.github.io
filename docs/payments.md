@@ -39,6 +39,7 @@ Here are some important tips and tricks to keep the price of the plugin affordab
 | Payment system  | Special note | Min. payment |
 |:----------------|:------------------|:------|
 | Cryptocurrency | **10% Discount** | Any |
+| Ko-Fi | | 30 USD |
 | PayPal | Friends and Family only | 30 USD |
 | SWIFT/SEPA bank transfer | | 500 USD |
 | Invoice |  | 500 USD |
