@@ -8,6 +8,9 @@ You also may commission a feature request towards a different plugin that you ha
 Feature request must fit into targeted plugin's intended functions.
 {: .warning }
 
+Plugins that are either entirely AI-generated or written with AI assistance are ineligible for these feature requests. In this case you can only commission completely new plugin. 
+{: .warning }
+
 In general, there is no difference compared to a process to commission a new plugin, except:
 - If you commission a feature request for the NightmareXIV plugin, there is no minimum price, except for the one imposed by the choice of payment system (otherwise the standard minimum commission price applies);
 - There will be no free update period;
